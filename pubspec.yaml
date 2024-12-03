@@ -1,0 +1,63 @@
+name: fvapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+
+  cupertino_icons: ^1.0.6
+  image_picker: ^0.8.7+4 # Add this line for image pickin
+  # Firebase core for initialization
+  firebase_core: ^3.4.0
+  
+  # Firebase authentication
+  firebase_auth: ^5.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/wel3-removebg-preview.png
+    - assets/wel4-removebg-preview.png
+    - assets/wel5-removebg-preview.png
+    - assets/wel6-removebg-preview.png
+    - assets/ethnic-signupmodel.png
+    - assets/uploadimage.jpg
+    - assets/fabric_image.jpg
+    - assets/clothes1.png
+    - assets/baby pink.png
+    - assets/custom_image.jpeg
+    - assets/lace1.png
+    - assets/lace2.png
+    - assets/lace3.png
+    - assets/lace4.png
+    - assets/lace5.png
+    - assets/lace6.png
+    - assets/lace7.png
+    - assets/button1.png
+    - assets/button2.png
+    - assets/button3.png
+    - assets/button4.png
+    - assets/button5.png
+    - assets/button6.png
+    - assets/tassel1.png
+    - assets/tassel2.png
+    - assets/tassel3.png
+    - assets/tassel4.png
+    - assets/tassel5.png
+    - assets/tassel6.png
+    - assets/tassel7.png
+    

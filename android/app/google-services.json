@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364403020190",
+    "project_id": "fvapp-d2004",
+    "storage_bucket": "fvapp-d2004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364403020190:android:1c787275eb9a0ff433868f",
+        "android_client_info": {
+          "package_name": "com.example.fvapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7q_5WH8QU9kfBaVG5QwDVNWvX8pTqVo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
